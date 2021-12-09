@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://github.com/AdrMXR/KitHack/blob/master/images/banner.png" title="KitHack">
+## This fork translates the tool to english and drastically reduces the time.sleep()
+ <img src="https://github.com/AdrMXR/KitHack/blob/master/images/banner.png" title="KitHack">
 </p>
 
 <p align="center">
